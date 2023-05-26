@@ -1,7 +1,8 @@
 <div id='top' align="center">
-A tiny Shell script to manage and keep your any nextjs application on any vps server online 24/7 by using [pm2](https://pm2.keymetrics.io/).
+A tiny Shell script to manage and keep your any nextjs application on any vps server online 24/7 by using [pm2] (https://pm2.keymetrics.io/).
 
 </div>
+
 ## ✨Introduction
 
 You can easily manage and keep your any nextjs application on any vps server online 24/7 by using the script.
